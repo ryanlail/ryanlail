@@ -1,8 +1,9 @@
 # Hi, I'm Ryan 👋
 
-I'm an engineer interested in AI and software — particularly **AI safety**.
+I'm an engineer with interests in **AI safety**. Currently, my work involves detecting and measuring AI failures.
 
-Founding Engineer at [Composo AI](https://composo.ai), building AI evaluation for alignment & safety.
+Currently a Founding Engineer at [Composo AI](https://composo.ai), building AI evaluation for alignment & safety in high-stakes domains.
+Previously a SWE at [Thought Machine](https://www.thoughtmachine.net/), MSc at Imperial College London working on Offline Reinforcement Learning.
 
 ## Research
 
