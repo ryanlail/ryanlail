@@ -1,6 +1,6 @@
 # Hi, I'm Ryan 👋
 
-I'm an engineer with interests in **AI safety**. Currently, my work involves detecting and measuring AI failures.
+I'm an engineer with research interests in **AI safety**. Currently, my work involves detecting and measuring AI failures.
 
 Currently a Founding Engineer at [Composo AI](https://composo.ai), building AI evaluation for alignment & safety in high-stakes domains.
 
