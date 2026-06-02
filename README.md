@@ -9,4 +9,4 @@ Previously SWE at [Thought Machine](https://www.thoughtmachine.net/), MSc (Machi
 
 Recent Work
 - 📄 On Cost-Effective LLM-as-a-Judge Improvement Techniques (ICML 2026 workshop) — [paper](https://arxiv.org/abs/2604.13717) · [code](https://github.com/composo-ai/llm-judge-criteria-ensembling) · [blog](https://ryanlail.github.io/2026/05/29/cost-effective-llm-as-a-judge/)
-- ✍️ More work at ryanlail.github.io
+- ✍️ More work at [ryanlail.github.io]
