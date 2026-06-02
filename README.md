@@ -8,5 +8,5 @@ Founding Engineer at [Composo AI](https://composo.ai), building deployed LLM eva
 Previously SWE at [Thought Machine](https://www.thoughtmachine.net/), MSc (Machine Learning) at Imperial College London, working on Offline Reinforcement Learning.
 
 ## Recent Work
-- 📄 On Cost-Effective LLM-as-a-Judge Improvement Techniques (ICML 2026 workshop) — [paper](https://arxiv.org/abs/2604.13717) · [code](https://github.com/composo-ai/llm-judge-criteria-ensembling) · [blog](https://ryanlail.github.io/2026/05/29/cost-effective-llm-as-a-judge/)
+- 📄 On Cost-Effective LLM-as-a-Judge Improvement Techniques (ICML 2026 Workshop on Combining Theory and Benchmarks; and ICML 2026 Workshop on Statistical Frameworks for Uncertainty in Agentic Systems (non-archival)) — [paper](https://arxiv.org/abs/2604.13717) · [code](https://github.com/composo-ai/llm-judge-criteria-ensembling) · [blog](https://ryanlail.github.io/2026/05/29/cost-effective-llm-as-a-judge/)
 - ✍️ More work at [ryanlail.github.io](https://ryanlail.github.io)
