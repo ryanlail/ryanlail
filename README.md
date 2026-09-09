@@ -2,7 +2,7 @@
 
 I'm an engineer with research interests in AI safety, focused on detecting and measuring AI failures and catching them reliably.
 
-Founding Engineer at [Composo AI](https://composo.ai), where I lead research on making automated evaluation reliable enough to trust in high-stakes domains: LLM-as-a-judge calibration, uncertainty quantification, classifier fine-tuning. My current research interest is AI control: how monitoring holds up against adaptive adversaries.
+Founding Engineer at [Composo AI](https://composo.ai), where I lead research on making automated evaluation reliable enough to trust in high-stakes domains: LLM-as-a-judge calibration, uncertainty quantification, classifier fine-tuning. My current research interest is AI control: how monitoring holds up against adaptive adversaries, which I'm working on as part of SPAR's [In-the-Wild AI Control](https://sparai.org/projects/f26/rec8RybPH2kNV6qDa) project.
 
 Previously SWE at [Thought Machine](https://www.thoughtmachine.net/), MSc (Machine Learning) at Imperial College London, working on Offline Reinforcement Learning.
 
