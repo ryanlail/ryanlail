@@ -6,9 +6,6 @@ Founding Engineer at [Composo AI](https://composo.ai), where I lead research on 
 
 Previously SWE at [Thought Machine](https://www.thoughtmachine.net/), MSc (Machine Learning) at Imperial College London, working on Offline Reinforcement Learning.
 
-Recent Work: keep your existing block (it carries the links). Optional additions: reorder newest-first by moving whole lines; add
-🔬 [In-the-Wild AI Control](https://sparai.org/projects/f26/rec8RybPH2kNV6qDa), SPAR Fall 2026, mentored by Sree Sharvesh and Thao Pham
-
 ## Recent Work
 - 📄 On Cost-Effective LLM-as-a-Judge Improvement Techniques (ICML 2026 Workshop “Statistical Frameworks for Uncertainty in Agentic Systems”; also accepted at ICML 2026 Workshop “Combining Theory and Benchmarks: Towards A Virtuous Cycle to Understand and Guarantee Foundation Model Performance”) - [paper](https://arxiv.org/abs/2604.13717) · [code](https://github.com/composo-ai/llm-judge-criteria-ensembling) · [blog](https://ryanlail.github.io/2026/05/29/cost-effective-llm-as-a-judge/)
 - 📝 Quantifying Blind Spots of LLM Evaluators - [code](https://github.com/ryanlail/does-the-judge-know) · [blog](https://ryanlail.github.io/2026/06/21/quantifying-blind-spots-of-llm-evaluators/)
